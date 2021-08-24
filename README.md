@@ -1,5 +1,5 @@
 Hi there!
-> My name is Eldar and I'm software/data engineer. 
+> I'm Eldar, software/data engineer. 
 
 > I’m fond of Scala, Python and BigData platform tasks.
 
